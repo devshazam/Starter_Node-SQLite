@@ -1,0 +1,9 @@
+.idea
+.env
+/coverage
+/build
+/node_modules
+/backup
+/error-log/log.txt
+/node_modules
+app.log
